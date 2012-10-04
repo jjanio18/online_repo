@@ -2,3 +2,6 @@ this is a fix for ticket 57.
 test line 1
 test line 2
 test line 3
+this is a fix for ticket 56.
+test line 1
+this is a function declaration.
